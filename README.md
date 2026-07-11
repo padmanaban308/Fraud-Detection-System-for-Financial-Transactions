@@ -27,7 +27,7 @@ Weighted Average      1.00       1.00      1.00       166,716
 
 Confusion Matrix Breakdown :
 
-Actual \ Predicted [Legitimate] [Fraudulent] 
-[Legitimate] 165,791 281 (False Alarms) 
-[Fraudulent] 94 550 (True Caught Fraud)
+Actual \ Predicted     [Legitimate]     [Fraudulent] 
+[Legitimate]             165,791           281       (False Alarms) 
+[Fraudulent]                  94           550       (True Caught Fraud)
 
